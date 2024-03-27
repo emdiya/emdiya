@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [json to freezed](https://jsontofreezed.vercel.app/freezed)
 
-- 👨‍💻 All of my projects are available at [https://emdiya.github.io/potfolio/](https://emdiya.github.io/potfolio/)
+- 👨‍💻 All of my projects are available at [https://emdiya.github.io/potfolio/](https://emdiya.vercel.app/)
 
 - 💬 Ask me about **Mobile Development, Web Full Stack Development**
 
