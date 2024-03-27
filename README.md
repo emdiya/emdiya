@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js** **Nest Js**
 
 - 🤝 I’m looking for help with [json to freezed](https://jsontofreezed.vercel.app/freezed)
 
