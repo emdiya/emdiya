@@ -1,19 +1,19 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://emdiya.github.io/potfolio/)
 
 <h1 align="center">Hi 👋, I'm Em Diya</h1>
-<h3 align="center">A passionate Full Stack Developer from Cambodia</h3>
+<h3 align="center">A passionate Flutter Developer from Cambodia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emdiya&label=Profile%20views&color=0e75b6&style=flat" alt="emdiya" /> </p>
 
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working on **Full Stack Freelancer**
 
-- 🌱 I’m currently learning **Next Js** **Nest Js**
+- 🌱 I’m currently learning **Full Stack Developer**
 
 - 🤝 I’m looking for help with [json to freezed](https://jsontofreezed.vercel.app/freezed)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://emdiya.vercel.app/)
 
-- 💬 Ask me about **Mobile Development, Web Full Stack Development**
+- 💬 Ask me about **Mobile Development, Full Stack Development**
 
 - 📫 How to reach me **info.emdiya@gmail.com**
 
