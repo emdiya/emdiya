@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emdiya&label=Profile%20views&color=0e75b6&style=flat" alt="emdiya" /> </p>
 
 
-- 🔭 I’m currently working on **Full Stack Freelancer**
+- 🔭 I’m currently working on **Flutter Developer**
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
