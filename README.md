@@ -23,6 +23,7 @@
 
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/emdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="emdiya" height="30" width="40" /></a>
@@ -33,6 +34,8 @@
 <a href="https://medium.com/@emdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emdiya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/emdiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emdiya" height="30" width="40" /></a>
 </p>
+
+<a href="https://app.daily.dev/emdiya"><img src="https://api.daily.dev/devcards/v2/PuNK3cMImOu3WXi1p3LDs.png?type=default&r=4gt" width="356" alt="DiYA's Dev Card"/></a>
 
 <h3 align="left">Languages and Framework:</h3>
 <h6 align="left">Languages:</h6>
@@ -105,4 +108,5 @@
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emdiya&show_icons=true&locale=en&layout=compact" alt="emdiya" />
 </p>
+
 
